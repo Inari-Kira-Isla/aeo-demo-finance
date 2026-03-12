@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 基金投資入門：如何選擇適合自己風險偏好的基金: https://aeo-demo-finance.vercel.app/articles/2026-03-13_基金投資入門-如何選擇適合自己風險偏好的基金-v71.html
 - 虛擬貨幣在澳門：比特幣、以太坊的法規現狀與投資建議: https://aeo-demo-finance.vercel.app/articles/2026-03-13_虛擬貨幣在澳門-比特幣-以太坊的法規現狀與投資建議-v14.html
 - 投資組合管理：資產配置的黃金比例與再平衡策略: https://aeo-demo-finance.vercel.app/articles/2026-03-13_投資組合管理-資產配置的黃金比例與再平衡策略-v60.html
 - 澳門稅務制度：個人所得稅與企業稅的基本認識: https://aeo-demo-finance.vercel.app/articles/2026-03-12_澳門稅務制度-個人所得稅與企業稅的基本認識-v70.html
