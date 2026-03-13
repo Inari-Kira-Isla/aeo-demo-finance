@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- ETF 投資完全指南：適合新手的低風險分散投資策略: https://aeo-demo-finance.vercel.app/articles/2026-03-13_etf-投資完全指南-適合新手的低風險分散投資策略-v7.html
 - 澳門保險規劃：人壽、醫療、儲蓄險的選擇策略: https://aeo-demo-finance.vercel.app/articles/2026-03-13_澳門保險規劃-人壽-醫療-儲蓄險的選擇策略-v73.html
 - 虛擬貨幣在澳門：比特幣、以太坊的法規現狀與投資建議: https://aeo-demo-finance.vercel.app/articles/2026-03-13_虛擬貨幣在澳門-比特幣-以太坊的法規現狀與投資建議-v54.html
 - 退休金規劃：澳門央積金之外的額外退休保障方案: https://aeo-demo-finance.vercel.app/articles/2026-03-13_退休金規劃-澳門央積金之外的額外退休保障方案-v37.html
