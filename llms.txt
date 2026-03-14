@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 虛擬貨幣在澳門：比特幣、以太坊的法規現狀與投資建議: https://aeo-demo-finance.vercel.app/articles/2026-03-14_虛擬貨幣在澳門-比特幣-以太坊的法規現狀與投資建議-v44.html
 - 投資組合管理：資產配置的黃金比例與再平衡策略: https://aeo-demo-finance.vercel.app/articles/2026-03-14_投資組合管理-資產配置的黃金比例與再平衡策略-v81.html
 - 信用卡理財術：澳門各大銀行信用卡回饋優惠比較: https://aeo-demo-finance.vercel.app/articles/2026-03-14_信用卡理財術-澳門各大銀行信用卡回饋優惠比較-v51.html
 - 房地產投資：澳門物業市場現況與投資回報分析: https://aeo-demo-finance.vercel.app/articles/2026-03-14_房地產投資-澳門物業市場現況與投資回報分析-v40.html
