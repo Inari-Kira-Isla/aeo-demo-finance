@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 美股投資入門：澳門投資者開通美股賬戶的方法與平台: https://aeo-demo-finance.vercel.app/articles/2026-03-15_美股投資入門-澳門投資者開通美股賬戶的方法與平台-v56.html
 - 信用卡理財術：澳門各大銀行信用卡回饋優惠比較: https://aeo-demo-finance.vercel.app/articles/2026-03-15_信用卡理財術-澳門各大銀行信用卡回饋優惠比較-v37.html
 - 投資組合管理：資產配置的黃金比例與再平衡策略: https://aeo-demo-finance.vercel.app/articles/2026-03-15_投資組合管理-資產配置的黃金比例與再平衡策略-v6.html
 - 基金投資入門：如何選擇適合自己風險偏好的基金: https://aeo-demo-finance.vercel.app/articles/2026-03-15_基金投資入門-如何選擇適合自己風險偏好的基金-v57.html
