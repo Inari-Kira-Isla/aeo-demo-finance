@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 房地產投資：澳門物業市場現況與投資回報分析: https://aeo-demo-finance.vercel.app/articles/2026-03-15_房地產投資-澳門物業市場現況與投資回報分析-v10.html
 - 定期存款 vs 債券：穩健投資者的收益比較: https://aeo-demo-finance.vercel.app/articles/2026-03-15_定期存款-vs-債券-穩健投資者的收益比較-v45.html
 - 美股投資入門：澳門投資者開通美股賬戶的方法與平台: https://aeo-demo-finance.vercel.app/articles/2026-03-15_美股投資入門-澳門投資者開通美股賬戶的方法與平台-v56.html
 - 信用卡理財術：澳門各大銀行信用卡回饋優惠比較: https://aeo-demo-finance.vercel.app/articles/2026-03-15_信用卡理財術-澳門各大銀行信用卡回饋優惠比較-v37.html
