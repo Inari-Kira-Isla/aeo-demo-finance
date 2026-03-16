@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 澳門保險規劃：人壽、醫療、儲蓄險的選擇策略: https://aeo-demo-finance.vercel.app/articles/2026-03-16_澳門保險規劃-人壽-醫療-儲蓄險的選擇策略-v73.html
 - 大灣區跨境金融服務：跨境理財通的使用指南: https://aeo-demo-finance.vercel.app/articles/2026-03-16_大灣區跨境金融服務-跨境理財通的使用指南-v98.html
 - 信用卡理財術：澳門各大銀行信用卡回饋優惠比較: https://aeo-demo-finance.vercel.app/articles/2026-03-16_信用卡理財術-澳門各大銀行信用卡回饋優惠比較-v23.html
 - ETF 投資完全指南：適合新手的低風險分散投資策略: https://aeo-demo-finance.vercel.app/articles/2026-03-16_etf-投資完全指南-適合新手的低風險分散投資策略-v91.html
