@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 澳門銀行開戶攻略：本地居民與外地人士的完整指南: https://aeo-demo-finance.vercel.app/articles/2026-03-18_澳門銀行開戶攻略-本地居民與外地人士的完整指南-v37.html
 - 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-03-18_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v26.html
 - ETF 投資完全指南：適合新手的低風險分散投資策略: https://aeo-demo-finance.vercel.app/articles/2026-03-18_etf-投資完全指南-適合新手的低風險分散投資策略-v33.html
 - 投資組合管理：資產配置的黃金比例與再平衡策略: https://aeo-demo-finance.vercel.app/articles/2026-03-17_投資組合管理-資產配置的黃金比例與再平衡策略-v89.html
