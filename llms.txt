@@ -76,6 +76,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 澳門創業融資指南：中小企業貸款與政府資助計劃: https://aeo-demo-finance.vercel.app/articles/2026-03-18_澳門創業融資指南-中小企業貸款與政府資助計劃-v87.html
 - 澳門稅務制度：個人所得稅與企業稅的基本認識: https://aeo-demo-finance.vercel.app/articles/2026-03-18_澳門稅務制度-個人所得稅與企業稅的基本認識-v58.html
 - 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-03-18_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v36.html
 - 退休金規劃：澳門央積金之外的額外退休保障方案: https://aeo-demo-finance.vercel.app/articles/2026-03-18_退休金規劃-澳門央積金之外的額外退休保障方案-v31.html
