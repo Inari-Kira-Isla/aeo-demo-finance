@@ -1,0 +1,3 @@
+Contact: mailto:info@cloudpipe.ai
+Preferred-Languages: zh-TW, en
+Canonical: https://inari-kira-isla.github.io/aeo-demo-finance/security.txt
