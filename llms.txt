@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 外匯入門教學：港幣、人民幣、澳門元的匯率策略: https://aeo-demo-finance.vercel.app/articles/2026-03-22_外匯入門教學-港幣-人民幣-澳門元的匯率策略-v30.html
 - 家庭理財計劃：月入三萬如何分配儲蓄、保險與投資: https://aeo-demo-finance.vercel.app/articles/2026-03-22_家庭理財計劃-月入三萬如何分配儲蓄-保險與投資-v33.html
 - 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-03-22_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v64.html
 - 澳門銀行開戶攻略：本地居民與外地人士的完整指南: https://aeo-demo-finance.vercel.app/articles/2026-03-22_澳門銀行開戶攻略-本地居民與外地人士的完整指南-v5.html
