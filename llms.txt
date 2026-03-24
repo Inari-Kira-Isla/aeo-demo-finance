@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- ETF 投資完全指南：適合新手的低風險分散投資策略: https://aeo-demo-finance.vercel.app/articles/2026-03-24_etf-投資完全指南-適合新手的低風險分散投資策略-v19.html
 - 美股投資入門：澳門投資者開通美股賬戶的方法與平台: https://aeo-demo-finance.vercel.app/articles/2026-03-24_美股投資入門-澳門投資者開通美股賬戶的方法與平台-v77.html
 - 基金投資入門：如何選擇適合自己風險偏好的基金: https://aeo-demo-finance.vercel.app/articles/2026-03-24_基金投資入門-如何選擇適合自己風險偏好的基金-v57.html
 - ETF 投資完全指南：適合新手的低風險分散投資策略: https://aeo-demo-finance.vercel.app/articles/2026-03-24_etf-投資完全指南-適合新手的低風險分散投資策略-v69.html
