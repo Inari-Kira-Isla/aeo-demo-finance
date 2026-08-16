@@ -1188,4 +1188,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-finance.vercel.app/articles/2026-08-16_澳門稅務制度-個人所得稅與企業稅的基本認識-v52.html</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
