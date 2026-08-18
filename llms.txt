@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- ETF 投資完全指南：適合新手的低風險分散投資策略: https://aeo-demo-finance.vercel.app/articles/2026-08-19_etf-投資完全指南-適合新手的低風險分散投資策略-v15.html
 - 區塊鏈技術入門：去中心化金融 DeFi 的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-08-18_區塊鏈技術入門-去中心化金融-defi-的基礎概念-v60.html
 - 家庭理財計劃：月入三萬如何分配儲蓄、保險與投資: https://aeo-demo-finance.vercel.app/articles/2026-08-18_家庭理財計劃-月入三萬如何分配儲蓄-保險與投資-v24.html
 - 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-08-18_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v34.html
