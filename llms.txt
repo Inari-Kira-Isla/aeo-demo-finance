@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-08-18_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v34.html
 - 區塊鏈技術入門：去中心化金融 DeFi 的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-08-18_區塊鏈技術入門-去中心化金融-defi-的基礎概念-v40.html
 - 港股入門教學：澳門投資者如何開通港股賬戶: https://aeo-demo-finance.vercel.app/articles/2026-08-17_港股入門教學-澳門投資者如何開通港股賬戶-v36.html
 - 澳門稅務制度：個人所得稅與企業稅的基本認識: https://aeo-demo-finance.vercel.app/articles/2026-08-16_澳門稅務制度-個人所得稅與企業稅的基本認識-v52.html
