@@ -1284,4 +1284,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-finance.vercel.app/articles/2026-08-22_etf-投資完全指南-適合新手的低風險分散投資策略-v4.html</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
