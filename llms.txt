@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 澳門創業融資指南：中小企業貸款與政府資助計劃: https://aeo-demo-finance.vercel.app/articles/2026-08-29_澳門創業融資指南-中小企業貸款與政府資助計劃-v9.html
 - 定期存款 vs 債券：穩健投資者的收益比較: https://aeo-demo-finance.vercel.app/articles/2026-08-29_定期存款-vs-債券-穩健投資者的收益比較-v53.html
 - 定期存款 vs 債券：穩健投資者的收益比較: https://aeo-demo-finance.vercel.app/articles/2026-08-29_定期存款-vs-債券-穩健投資者的收益比較-v92.html
 - 澳門創業融資指南：中小企業貸款與政府資助計劃: https://aeo-demo-finance.vercel.app/articles/2026-08-28_澳門創業融資指南-中小企業貸款與政府資助計劃-v15.html
