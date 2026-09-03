@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 港股入門教學：澳門投資者如何開通港股賬戶: https://aeo-demo-finance.vercel.app/articles/2026-09-03_港股入門教學-澳門投資者如何開通港股賬戶-v28.html
 - 家庭理財計劃：月入三萬如何分配儲蓄、保險與投資: https://aeo-demo-finance.vercel.app/articles/2026-09-03_家庭理財計劃-月入三萬如何分配儲蓄-保險與投資-v81.html
 - 虛擬貨幣在澳門：比特幣、以太坊的法規現狀與投資建議: https://aeo-demo-finance.vercel.app/articles/2026-09-02_虛擬貨幣在澳門-比特幣-以太坊的法規現狀與投資建議-v79.html
 - 港股入門教學：澳門投資者如何開通港股賬戶: https://aeo-demo-finance.vercel.app/articles/2026-09-02_港股入門教學-澳門投資者如何開通港股賬戶-v50.html
