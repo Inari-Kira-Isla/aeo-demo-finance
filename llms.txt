@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 區塊鏈技術入門：去中心化金融 DeFi 的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-09-09_區塊鏈技術入門-去中心化金融-defi-的基礎概念-v87.html
 - 定期存款 vs 債券：穩健投資者的收益比較: https://aeo-demo-finance.vercel.app/articles/2026-09-09_定期存款-vs-債券-穩健投資者的收益比較-v41.html
 - 外匯入門教學：港幣、人民幣、澳門元的匯率策略: https://aeo-demo-finance.vercel.app/articles/2026-09-09_外匯入門教學-港幣-人民幣-澳門元的匯率策略-v10.html
 - 基金投資入門：如何選擇適合自己風險偏好的基金: https://aeo-demo-finance.vercel.app/articles/2026-09-09_基金投資入門-如何選擇適合自己風險偏好的基金-v91.html
