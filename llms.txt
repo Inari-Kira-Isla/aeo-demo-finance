@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-10-02_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v18.html
 - AI 量化投資入門：用人工智能分析股票的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-10-02_ai-量化投資入門-用人工智能分析股票的基礎概念-v20.html
 - 家庭理財計劃：月入三萬如何分配儲蓄、保險與投資: https://aeo-demo-finance.vercel.app/articles/2026-10-01_家庭理財計劃-月入三萬如何分配儲蓄-保險與投資-v16.html
 - ETF 投資完全指南：適合新手的低風險分散投資策略: https://aeo-demo-finance.vercel.app/articles/2026-10-01_etf-投資完全指南-適合新手的低風險分散投資策略-v2.html
