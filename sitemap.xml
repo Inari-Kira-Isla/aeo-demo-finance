@@ -2112,4 +2112,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-finance.vercel.app/articles/2026-10-07_ai-量化投資入門-用人工智能分析股票的基礎概念-v8.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
