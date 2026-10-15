@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 投資組合管理：資產配置的黃金比例與再平衡策略: https://aeo-demo-finance.vercel.app/articles/2026-10-16_投資組合管理-資產配置的黃金比例與再平衡策略-v13.html
 - 投資組合管理：資產配置的黃金比例與再平衡策略: https://aeo-demo-finance.vercel.app/articles/2026-10-15_投資組合管理-資產配置的黃金比例與再平衡策略-v40.html
 - 美股投資入門：澳門投資者開通美股賬戶的方法與平台: https://aeo-demo-finance.vercel.app/articles/2026-10-15_美股投資入門-澳門投資者開通美股賬戶的方法與平台-v61.html
 - 退休金規劃：澳門央積金之外的額外退休保障方案: https://aeo-demo-finance.vercel.app/articles/2026-10-15_退休金規劃-澳門央積金之外的額外退休保障方案-v13.html
