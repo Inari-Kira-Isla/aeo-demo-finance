@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 澳門銀行開戶攻略：本地居民與外地人士的完整指南: https://aeo-demo-finance.vercel.app/articles/2026-10-22_澳門銀行開戶攻略-本地居民與外地人士的完整指南-v32.html
 - 虛擬貨幣在澳門：比特幣、以太坊的法規現狀與投資建議: https://aeo-demo-finance.vercel.app/articles/2026-10-21_虛擬貨幣在澳門-比特幣-以太坊的法規現狀與投資建議-v98.html
 - 基金投資入門：如何選擇適合自己風險偏好的基金: https://aeo-demo-finance.vercel.app/articles/2026-10-21_基金投資入門-如何選擇適合自己風險偏好的基金-v18.html
 - 信用卡理財術：澳門各大銀行信用卡回饋優惠比較: https://aeo-demo-finance.vercel.app/articles/2026-10-21_信用卡理財術-澳門各大銀行信用卡回饋優惠比較-v34.html
