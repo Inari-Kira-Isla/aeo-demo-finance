@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 基金投資入門：如何選擇適合自己風險偏好的基金: https://aeo-demo-finance.vercel.app/articles/2026-10-21_基金投資入門-如何選擇適合自己風險偏好的基金-v18.html
 - 信用卡理財術：澳門各大銀行信用卡回饋優惠比較: https://aeo-demo-finance.vercel.app/articles/2026-10-21_信用卡理財術-澳門各大銀行信用卡回饋優惠比較-v34.html
 - AI 量化投資入門：用人工智能分析股票的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-10-21_ai-量化投資入門-用人工智能分析股票的基礎概念-v16.html
 - 家庭理財計劃：月入三萬如何分配儲蓄、保險與投資: https://aeo-demo-finance.vercel.app/articles/2026-10-20_家庭理財計劃-月入三萬如何分配儲蓄-保險與投資-v80.html
