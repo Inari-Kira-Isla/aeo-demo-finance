@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 投資組合管理：資產配置的黃金比例與再平衡策略: https://aeo-demo-finance.vercel.app/articles/2026-10-24_投資組合管理-資產配置的黃金比例與再平衡策略-v51.html
 - 房地產投資：澳門物業市場現況與投資回報分析: https://aeo-demo-finance.vercel.app/articles/2026-10-24_房地產投資-澳門物業市場現況與投資回報分析-v94.html
 - 區塊鏈技術入門：去中心化金融 DeFi 的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-10-24_區塊鏈技術入門-去中心化金融-defi-的基礎概念-v19.html
 - 虛擬貨幣在澳門：比特幣、以太坊的法規現狀與投資建議: https://aeo-demo-finance.vercel.app/articles/2026-10-24_虛擬貨幣在澳門-比特幣-以太坊的法規現狀與投資建議-v16.html
