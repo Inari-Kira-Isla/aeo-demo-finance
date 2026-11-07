@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 大灣區跨境金融服務：跨境理財通的使用指南: https://aeo-demo-finance.vercel.app/articles/2026-11-07_大灣區跨境金融服務-跨境理財通的使用指南-v89.html
 - AI 量化投資入門：用人工智能分析股票的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-11-07_ai-量化投資入門-用人工智能分析股票的基礎概念-v40.html
 - 澳門銀行開戶攻略：本地居民與外地人士的完整指南: https://aeo-demo-finance.vercel.app/articles/2026-11-07_澳門銀行開戶攻略-本地居民與外地人士的完整指南-v79.html
 - 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-11-07_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v38.html
