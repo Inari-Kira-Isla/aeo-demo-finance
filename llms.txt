@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 信用卡理財術：澳門各大銀行信用卡回饋優惠比較: https://aeo-demo-finance.vercel.app/articles/2026-11-08_信用卡理財術-澳門各大銀行信用卡回饋優惠比較-v66.html
 - 區塊鏈技術入門：去中心化金融 DeFi 的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-11-08_區塊鏈技術入門-去中心化金融-defi-的基礎概念-v72.html
 - 定期存款 vs 債券：穩健投資者的收益比較: https://aeo-demo-finance.vercel.app/articles/2026-11-08_定期存款-vs-債券-穩健投資者的收益比較-v95.html
 - 大灣區跨境金融服務：跨境理財通的使用指南: https://aeo-demo-finance.vercel.app/articles/2026-11-07_大灣區跨境金融服務-跨境理財通的使用指南-v89.html
