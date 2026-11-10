@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 區塊鏈技術入門：去中心化金融 DeFi 的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-11-10_區塊鏈技術入門-去中心化金融-defi-的基礎概念-v89.html
 - 黃金投資指南：實金、紙黃金與黃金 ETF 的比較: https://aeo-demo-finance.vercel.app/articles/2026-11-10_黃金投資指南-實金-紙黃金與黃金-etf-的比較-v81.html
 - 大灣區跨境金融服務：跨境理財通的使用指南: https://aeo-demo-finance.vercel.app/articles/2026-11-10_大灣區跨境金融服務-跨境理財通的使用指南-v88.html
 - 澳門創業融資指南：中小企業貸款與政府資助計劃: https://aeo-demo-finance.vercel.app/articles/2026-11-09_澳門創業融資指南-中小企業貸款與政府資助計劃-v76.html
