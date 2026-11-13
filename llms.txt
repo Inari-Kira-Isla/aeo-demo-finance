@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 房地產投資：澳門物業市場現況與投資回報分析: https://aeo-demo-finance.vercel.app/articles/2026-11-13_房地產投資-澳門物業市場現況與投資回報分析-v27.html
 - 澳門保險規劃：人壽、醫療、儲蓄險的選擇策略: https://aeo-demo-finance.vercel.app/articles/2026-11-13_澳門保險規劃-人壽-醫療-儲蓄險的選擇策略-v65.html
 - 房地產投資：澳門物業市場現況與投資回報分析: https://aeo-demo-finance.vercel.app/articles/2026-11-12_房地產投資-澳門物業市場現況與投資回報分析-v90.html
 - 澳門創業融資指南：中小企業貸款與政府資助計劃: https://aeo-demo-finance.vercel.app/articles/2026-11-12_澳門創業融資指南-中小企業貸款與政府資助計劃-v18.html
