@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 澳門創業融資指南：中小企業貸款與政府資助計劃: https://aeo-demo-finance.vercel.app/articles/2026-11-23_澳門創業融資指南-中小企業貸款與政府資助計劃-v27.html
 - 美股投資入門：澳門投資者開通美股賬戶的方法與平台: https://aeo-demo-finance.vercel.app/articles/2026-11-22_美股投資入門-澳門投資者開通美股賬戶的方法與平台-v73.html
 - 區塊鏈技術入門：去中心化金融 DeFi 的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-11-22_區塊鏈技術入門-去中心化金融-defi-的基礎概念-v26.html
 - AI 量化投資入門：用人工智能分析股票的基礎概念: https://aeo-demo-finance.vercel.app/articles/2026-11-22_ai-量化投資入門-用人工智能分析股票的基礎概念-v41.html
