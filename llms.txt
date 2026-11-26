@@ -82,6 +82,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Email: security@cloudpipe.dev
 
 ## Recent Articles
+- 港股入門教學：澳門投資者如何開通港股賬戶: https://aeo-demo-finance.vercel.app/articles/2026-11-26_港股入門教學-澳門投資者如何開通港股賬戶-v72.html
 - 基金投資入門：如何選擇適合自己風險偏好的基金: https://aeo-demo-finance.vercel.app/articles/2026-11-26_基金投資入門-如何選擇適合自己風險偏好的基金-v82.html
 - 定期存款 vs 債券：穩健投資者的收益比較: https://aeo-demo-finance.vercel.app/articles/2026-11-26_定期存款-vs-債券-穩健投資者的收益比較-v4.html
 - 虛擬貨幣在澳門：比特幣、以太坊的法規現狀與投資建議: https://aeo-demo-finance.vercel.app/articles/2026-11-26_虛擬貨幣在澳門-比特幣-以太坊的法規現狀與投資建議-v68.html
